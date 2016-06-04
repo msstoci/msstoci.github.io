@@ -27,7 +27,7 @@ $(window).scroll( function() {
     if ( value > 350 )
         $(".navbar-brand").css("font-size", "35px");
     else
-        $(".navbar-brand").css("font-size", "42px");
+        $(".navbar-brand").css("font-size", "35px");
 });
 
 $(window).scroll( function() {
