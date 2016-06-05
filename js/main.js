@@ -8,7 +8,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $('.navbar-toggle').click( function() {
-        $(".navbar-default").css("background", "#ffffff");
+        $(".navbar-default").css("background", "rgba(15, 28, 47, 0.7)");
     });
 });
 
