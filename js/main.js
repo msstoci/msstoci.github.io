@@ -33,7 +33,7 @@ $(window).scroll( function() {
 $(window).scroll( function() {
     var value = $(this).scrollTop();
     if ( value > 350 )
-        $(".navbar-default").css("background", "#ffffff");
+        $(".navbar-default").css("background", "rgba(15, 28, 47, 0.7) !important");
     else
         $(".navbar-default").css("background", "transparent");
 });
